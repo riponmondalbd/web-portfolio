@@ -23,6 +23,7 @@ h1{
 }
 section{
     height: 500px;
+    margin-bottom: 150px;
 }
 .link-button{
     text-decoration: none;
@@ -31,4 +32,9 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: bold;
+}
+.top-banner1{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
